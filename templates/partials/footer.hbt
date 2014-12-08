@@ -1,0 +1,19 @@
+        	<footer>
+    			<ul class="social-footer">
+      			<li><a href="http://twitter.com/fermup"><img src="/img/social-twitter.svg" alt="FermUp on Twitter"></a></li>
+      			<li><a href="http://pinterest.com/fermup"><img src="/img/social-pinterest.svg" alt="FermUp on Pinterest"></a></li>
+      			<li><a href="http://facebook.com/fermup"><img src="/img/social-facebook.svg" alt="FermUp on Facebook"></a></li>
+      			<li><a href="http://instagram.com/fermup"><img src="/img/social-instagram.svg" alt="FermUp on Instagram"></a></li>
+    			</ul>
+    			<p class="welcome">Join us on a delicious adventure as we explore the world of fermented foods and beverages.<br>Your taste buds are waiting.</p>
+    			<p class="scratch">Copyright &copy; Branden Byers. 2014.</p>
+  			</footer>
+
+        </div>
+    </div>
+
+    <label class="pure-overlay" for="pure-toggle-left" data-overlay="left"></label>
+    <label class="pure-overlay" for="pure-toggle-right" data-overlay="right"></label>
+</div>
+</body>
+</html>
