@@ -11,7 +11,38 @@
 
     <nav class="pure-drawer" data-position="left">
       <div class="pure-drawer-purple">
-        <h3>FermUp Podcast</h3>
+        <!-- Podcast Player -->
+            <audio id="music">
+              <source src="http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-86.mp3" type="audio/mpeg" />
+            </audio>
+            <div id="audioplayer">
+              <div id="timeline">    
+                    <div id="playhead"></div>
+              </div>
+              <button id="pButton" class="play" onclick="play()"></button>
+              <button id="previousButton" class="previous" onclick="previous()"></button>
+              <button id="nextButton" class="next" onclick="next()"></button>
+              <p id="curTimer">00:00</p>
+            </div>
+        <!-- End Podcast Player -->
+        <ul class="now-playing">
+          <li>
+            <p>Now Playing...</p>
+            <p>86: Fermenting Weeds</p>
+          </li>
+          <li>
+            <p>85: This is a Test</p>
+            <p>Duration: 40:15</p>
+          </li>
+          <li>
+            <p>84: Another Test</p>
+            <p>Duration: 30:05</p>
+          </li>
+          <li>
+            <p>83: Yet Another Test</p>
+            <p>Duration: 26:48</p>
+          </li>
+        </ul>
       </div>
     </nav>
 
@@ -31,6 +62,7 @@
     <div class="pure-pusher-container">
       <div class="pure-pusher">
         <header>
+
           <label class="pure-toggle-label" for="pure-toggle-left" data-toggle-label="left"><span class="pure-toggle-arrow">&#60;</span>play</label>
           <label class="pure-toggle-label" for="pure-toggle-right" data-toggle-label="right">menu<span class="pure-toggle-arrow">&#62;</span></label>
           <img class="logo-head" src="/img/fermup-logo-color.svg" alt="Mason jar with glasses">
@@ -77,6 +109,8 @@ you very much.</p>
 
     <label class="pure-overlay" for="pure-toggle-left" data-overlay="left"></label>
     <label class="pure-overlay" for="pure-toggle-right" data-overlay="right"></label>
+
+    <script src="/js/main.js"></script>
 </div>
 </body>
 </html>

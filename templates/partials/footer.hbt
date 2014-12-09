@@ -14,6 +14,8 @@
 
     <label class="pure-overlay" for="pure-toggle-left" data-overlay="left"></label>
     <label class="pure-overlay" for="pure-toggle-right" data-overlay="right"></label>
+
+    <script src="/js/main.js"></script>
 </div>
 </body>
 </html>

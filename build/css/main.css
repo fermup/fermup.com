@@ -9,9 +9,9 @@ html {
   box-sizing: inherit;
 }
 
-/****************
-## Pure Drawer ##
-****************/
+/* ------------------------------------------------------------------------- */
+/* Pure CSS Drawer                                                           */
+/* ------------------------------------------------------------------------- */
 
 html, body {
   height: 100%; }
@@ -406,7 +406,7 @@ sub {
 }
 
 /* ------------------------------------------------------------------------- */
-/* HEADER/
+/* HEADER                                                                    */
 /* ------------------------------------------------------------------------- */
 
 header {
@@ -424,7 +424,7 @@ header {
 }
 
 /* ------------------------------------------------------------------------- */
-/* FULL-WIDTH-IMAGE/
+/* FULL-WIDTH-IMAGE                                                          */
 /* ------------------------------------------------------------------------- */
 
 .image-full-width {
@@ -440,7 +440,100 @@ header {
 }
 
 /* ------------------------------------------------------------------------- */
-/* FOOTER/
+/* Audio Player                                                              */
+/* ------------------------------------------------------------------------- */
+
+/* Audio Player */
+
+#audioplayer {
+/*    display: none;*/
+    width: 100%;
+    background-color: #56CF8C;
+    border-bottom: 5px solid black;
+}
+
+#audioplayer p {
+    font-size: 1em;
+    color: #387C8D;
+    margin: 0;
+    float: right;
+    padding: 17px;
+}
+
+#pButton{
+    height:60px; 
+    width: 60px;
+    border: none;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    outline:none;
+    display: inline-block;
+}
+
+#previousButton {
+    height:60px; 
+    width: 60px;
+    border: none;
+    background-size: 50% 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    outline:none;
+    display: inline-block;
+}
+
+#nextButton {
+    height:60px; 
+    width: 60px;
+    border: none;
+    background-size: 50% 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    outline:none;
+    display: inline-block;
+}
+
+.now-playing {
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 18px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.now-playing li {
+  padding: 10px;
+  border-bottom: 2px dotted black;
+}
+
+.now-playing p {
+  margin: 0;
+}
+
+.now-playing p:nth-child(2n) {
+  font-weight: 400;
+}
+
+.play{background: url('../img/play.png') ;}
+.pause{background: url('../img/pause.png') ;}
+.previous{background: url('../img/previous.png') ;}
+.next{background: url('../img/next.png') ;}
+
+#timeline {
+    overflow: auto;
+    background: #E3D064;
+    background-clip: content-box;
+  
+}
+#playhead {
+    width: 18px;
+    height: 22px;
+    background: #F64F41;
+
+}
+
+/* ------------------------------------------------------------------------- */
+/* FOOTER                                                                    */
 /* ------------------------------------------------------------------------- */
 
 footer ul {
