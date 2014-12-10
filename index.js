@@ -22,7 +22,7 @@ Metalsmith(__dirname)
     .use(drafts())
     .use(collections({
         pages: {
-            pattern: '/content/pages/*.md'
+            pattern: 'content/pages/*.md'
         },
         podcast: {
             pattern: 'content/podcast/*.md',
