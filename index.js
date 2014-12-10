@@ -11,6 +11,7 @@ var Metalsmith    = require('metalsmith'),
     cleanCSS      = require('metalsmith-clean-css'),
     uglify        = require('metalsmith-uglify'),
     htmlescape    = require('metalsmith-htmlescape'),
+    headingsidentifier = require('metalsmith-headings-identifier'),
     watch         = require('metalsmith-watch'),
     serve         = require('metalsmith-serve');
 
@@ -60,6 +61,7 @@ Metalsmith(__dirname)
     .use(cleanCSS())
     .use(uglify())
     .use(htmlescape())
+    .use(headingsidentifier())
     .use(watch())
     .use(serve())
     .destination('./build')
