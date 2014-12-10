@@ -1,4 +1,5 @@
 var Metalsmith    = require('metalsmith'),
+    branch        = require('metalsmith-branch'),
     markdown      = require('metalsmith-markdown'),
     templates     = require('metalsmith-templates'),
     collections   = require('metalsmith-collections'),
@@ -21,9 +22,6 @@ Metalsmith(__dirname)
     .use(autoprefixer())
     .use(drafts())
     .use(collections({
-        pages: {
-            pattern: 'content/pages/*.md'
-        },
         podcast: {
             pattern: 'content/podcast/*.md',
             sortBy: 'date',
@@ -46,11 +44,19 @@ Metalsmith(__dirname)
      }
     }))
     .use(markdown())
-    .use(permalinks({
-        pattern: ':collection/:title',
-        relative: false
-    }))
     .use(templates('handlebars'))
+    .use(branch('content/podcast/*')
+        .use(permalinks({
+            pattern: ':collection/:title',
+            relative: false
+        }))
+    )
+    .use(branch('static/*')
+        .use(permalinks({
+            pattern: ':title',
+            relative: false
+         }))
+    )
     .use(cleanCSS())
     .use(uglify())
     .use(htmlescape())

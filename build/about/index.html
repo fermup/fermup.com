@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <link rel="stylesheet" href="/css/main.css"> </head>
+<body>
+  <div class="pure-container" data-effect="pure-effect-reveal">
+    <input type="checkbox" id="pure-toggle-left" class="pure-toggle" data-toggle="left"/>
+    <input type="checkbox" id="pure-toggle-right" class="pure-toggle" data-toggle="right"/>
+
+    <nav class="pure-drawer" data-position="left">
+      <div class="pure-drawer-purple">
+        <!-- Podcast Player -->
+            <audio id="music">
+              <source src="http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-86.mp3" type="audio/mpeg" />
+            </audio>
+            <div id="audioplayer">
+              <div id="timeline">    
+                    <div id="playhead"></div>
+              </div>
+              <button id="pButton" class="play" onclick="play()"></button>
+              <button id="previousButton" class="previous" onclick="previous()"></button>
+              <button id="nextButton" class="next" onclick="next()"></button>
+              <p id="curTimer">00:00</p>
+            </div>
+        <!-- End Podcast Player -->
+        <ul class="now-playing">
+          <li>
+            <p>Now Playing...</p>
+            <p>86: Fermenting Weeds</p>
+          </li>
+          <li>
+            <p>85: This is a Test</p>
+            <p>Duration: 40:15</p>
+          </li>
+          <li>
+            <p>84: Another Test</p>
+            <p>Duration: 30:05</p>
+          </li>
+          <li>
+            <p>83: Yet Another Test</p>
+            <p>Duration: 26:48</p>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <nav class="pure-drawer" data-position="right">
+      <div class="pure-drawer-green">
+        <h3>FermUp!</h3>
+        <ul>
+          <li>Podcast</li>
+          <li>Tutorials</li>
+          <li>Recipes</li>
+          <li>Blog</li>
+          <li>Contact</li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="pure-pusher-container">
+      <div class="pure-pusher">
+        <header>
+
+          <label class="pure-toggle-label" for="pure-toggle-left" data-toggle-label="left"><span class="pure-toggle-arrow">&#60;</span>play</label>
+          <label class="pure-toggle-label" for="pure-toggle-right" data-toggle-label="right">menu<span class="pure-toggle-arrow">&#62;</span></label>
+          <img class="logo-head" src="/img/fermup-logo-color.svg" alt="Mason jar with glasses">
+        </header>
+<article>
+  <h1 id="about-me-">About me.</h1>
+<p>Ipsum quam fugit expedita nesciunt eos maiores nulla quasi porro ratione recusandae ullam animi quae totam dolore. Corporis voluptate ab dolores iure amet nostrum. Adipisci libero fuga et voluptatibus quos?</p>
+<h2 id="this-is-a-header">This is a header</h2>
+<p>Ipsum tenetur earum labore architecto unde libero. Fugiat nisi assumenda magnam ut commodi animi deleniti vitae quasi eius quis ipsum. Dolor eius aspernatur iusto itaque sunt nesciunt inventore. Maxime doloribus quasi quasi dolor iste! Eius eveniet harum quos cumque eaque necessitatibus hic nam nisi animi, non, voluptate nostrum consequuntur. Sit repudiandae dolores quas incidunt vero a et. Nesciunt ipsum eligendi officiis placeat quos amet delectus voluptatem quisquam pariatur magnam fuga unde beatae vel. Esse quibusdam pariatur consequuntur pariatur est.</p>
+<h2 id="this-is-another-header">This is another header</h2>
+<p>Elit non hic sit incidunt sit debitis ratione consequatur dolorem esse adipisci?
+Tempora minus ipsum officiis harum doloribus aliquid. Quas deserunt laborum in
+dignissimos hic aliquid. Tenetur et dignissim. Sit enim beatae itaque accusamus qui placeat. Eligendi debitis ea ipsa asperiores temporibus numquam? Distinctio laboriosam ducimus doloribus aut quos nemo. Hic hic quod nobis harum incidunt repellat iusto! Nobis. Sit illum delectus explicabo minima nam. Quo doloribus aperiam nam ipsa accusamus. Incidunt laborum quos nobis eius unde. Est libero veritatis delectus ratione quam, corrupti! Vitae molestias consectetur explicabo laboriosam.</p>
+<div class="image-full-width"><img src="http://lorempixel.com/1200/400/food"></div>
+
+<h3 id="this-is-a-smaller-header">This is a smaller header</h3>
+<p>Dolor doloremque provident ducimus optio sit distinctio consequuntur delectus! Eum facilis a quo quasi dicta nihil libero facilis tempore nihil asperiores id dicta debitis aperiam unde? Fugiat culpa quibusdam nostrum.</p>
+<ul>
+<li>These are some bullets</li>
+<li>yo</li>
+<li>Yes, that is what I said.</li>
+</ul>
+<div class="image-full-width"><img src="/img/social-instagram.svg" width="80px"></div>
+
+<p>Thank you for reading this and I hope you keeping reading in the future. Thank
+you very much.</p>
+<hr>
+
+</article>
+
+        	<footer>
+    			<ul class="social-footer">
+      			<li><a href="http://twitter.com/fermup"><img src="/img/social-twitter.svg" alt="FermUp on Twitter"></a></li>
+      			<li><a href="http://pinterest.com/fermup"><img src="/img/social-pinterest.svg" alt="FermUp on Pinterest"></a></li>
+      			<li><a href="http://facebook.com/fermup"><img src="/img/social-facebook.svg" alt="FermUp on Facebook"></a></li>
+      			<li><a href="http://instagram.com/fermup"><img src="/img/social-instagram.svg" alt="FermUp on Instagram"></a></li>
+    			</ul>
+    			<p class="welcome">Join us on a delicious adventure as we explore the world of fermented foods and beverages.<br>Your taste buds are waiting.</p>
+    			<p class="scratch">Copyright &copy; Branden Byers. 2014.</p>
+  			</footer>
+
+        </div>
+    </div>
+
+    <label class="pure-overlay" for="pure-toggle-left" data-overlay="left"></label>
+    <label class="pure-overlay" for="pure-toggle-right" data-overlay="right"></label>
+
+    <script src="/js/main.js"></script>
+</div>
+</body>
+</html>

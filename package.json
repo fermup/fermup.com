@@ -23,6 +23,7 @@
     "autoprefixer": "^4.0.0",
     "handlebars": "^2.0.0",
     "metalsmith": "^1.0.1",
+    "metalsmith-branch": "0.0.4",
     "metalsmith-clean-css": "^1.0.0",
     "metalsmith-collections": "^0.6.0",
     "metalsmith-drafts": "0.0.1",
