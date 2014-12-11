@@ -1,0 +1,35 @@
+---
+title: 7
+titlePart: "Seduce a Prince for Kefir Grains"
+subtitle: "The history of kefir is shrouded in secrecy"
+summary: "This weeks conversation includes our thoughts on an opinion we read about commercial production of food often times being superior to small-scale artisanal foods. Plus we take a closer look at Kefir history and microbiology."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-7.mp3"
+enclosureLength: 29364384
+guid: episode-7
+duration: "1:00:55"
+keywords: "kefir, artisanal, fermentation"
+explicit: "no"
+month: JAN
+day: 28
+year: 2013
+tags: dairy
+author: Branden Byers
+description: "This weeks conversation includes our thoughts on an opinion we read about commercial production of food often times being superior to small-scale artisanal foods. Plus we take a closer look at Kefir history and microbiology."
+---
+This weeks conversation includes our thoughts on an opinion we read about commercial production of food often times being superior to small-scale artisanal foods. Plus we take a closer look at Kefir history and microbiology.
+
+Does small-scale food taste better? Is it of higher quality? What is the difference between small-scale and artisanal?
+
+How to make kefir, where to find kefir grains and how kefir grains escaped the caucasus mountains.
+
+Show notes:
+
+[Food Microbiology: An Overlooked Frontier | Youtube](http://www.youtube.com/watch?v=H2M6tscb7bw&feature=youtu.be "Food Microbiology: An Overlooked Frontier Lecture 11")
+
+[Microbial Diversity & Interactions with Rachel Dutton | Youtube](http://www.youtube.com/watch?feature=player_embedded&v=cONl-7k3se4 "Microbial Diversity & Interactions")
+
+[Food, Fermentation and Micro-organisms by Charles W. Bamforth | Amazon](http://www.amazon.com/gp/product/0632059877/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0632059877&linkCode=as2&tag=fer06b-20 "Food, Fermentation and Micro-organisms - Amazon Affiliate Link")
+
+[Kefir production in Iran - a.k.a. how to make kefir grains with goat skin bag | PDF](http://www.kefir.ilbello.com/articoli/k4.pdf "Link Title")
+
+[International Kefir Sharing Community | torontoadvisors.com](http://www.torontoadvisors.com/suppliers "International Kefir Sharing Community")

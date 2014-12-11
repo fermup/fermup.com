@@ -1,0 +1,41 @@
+---
+title: "89: Ancient Kefir Cheese"
+subtitle: "The discovery of a 3,600 year old cheese"
+summary: "Explore the ancient world of dairy fermentation. This week's guest is Danielle Shelton, a historian of ancient and medieval textiles and fashion and we talk about the recent analysis of 3,600 year old kefir cheese found around the necks of mummies."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-89.mp3"
+enclosureLength: 15725280
+guid: episode-89
+duration: "31:13"
+keywords: "kefir, cheese, fermentation, mummies"
+explicit: "no"
+month: Nov
+day: 07
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "Explore the ancient world of dairy fermentation. This week's guest is Danielle Shelton, a historian of ancient and medieval textiles and fashion and we talk about the recent analysis of 3,600 year old kefir cheese found around the necks of mummies."
+---
+Explore the ancient world of dairy fermentation. This week's guest is Danielle Shelton, a historian of ancient and medieval textiles and fashion and we talk about the recent analysis of 3,600 year old kefir cheese found around the necks of mummies.
+
+Show notes:
+
+![Danielle Shelton on Kefir Cheese](/images/fermup-89-danielle-shelton.jpg "FermUp 89: Ancient Kefir Cheese")
+
+[Archaeology: Ancient cheese found with mummies : Nature : Nature Publishing Group](http://www.nature.com/nature/journal/v507/n7490/full/507010a.html)
+
+[The World's Oldest Cheese | Fermdamentals](http://fermdamentals.com/?p=99)
+
+[Cheese Chunks Adorn Ancient Mummies | Chinese Academy Of Sciences](http://english.cas.cn/Ne/CASE/201403/t20140303_117145.shtml)
+
+[Fermdamentals | The Fundamentals of Fermentation](http://fermdamentals.com/)
+
+[Fermdamentals on Facebook](https://www.facebook.com/pages/Fermdamentals/739729739409502?fref=nf)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

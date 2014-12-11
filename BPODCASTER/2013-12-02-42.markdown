@@ -1,0 +1,61 @@
+---
+title: "42: Human Cheese"
+subtitle: "When Science and Art Ferment Together"
+summary: "This week we discuss cheese made from human bacteria, an interview with Rene Redzepi of Noma, music made by microbes, how to make sriracha, dairy waste turned useful, and more."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-42.mp3"
+enclosureLength: 31117872
+guid: episode-42
+duration: "01:04:49"
+keywords: "human cheese, art, science, fermentation, molecular gastronomy, fermentaphone"
+explicit: "no"
+month: Dec
+day: 02
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we discuss cheese made from human bacteria, an interview with Rene Redzepi of Noma, music made by microbes, how to make sriracha, dairy waste turned useful, and more."
+---
+This week we discuss cheese made from human bacteria, an interview with Ren&eacute; Redzepi of Noma, music made by microbes, how to make sriracha, dairy waste turned useful, and more.
+
+Show notes:
+
+[The Q&A: Ren&eacute; Redzepi: Foraging and fermenting | The Economist](http://www.economist.com/blogs/prospero/2013/11/qa-ren-redzepi)
+
+[Ren&eacute; Redzepi: A Work in Progress | Amazon](http://www.amazon.com/exec/obidos/ASIN/0714866911/fermup-20)
+
+[Human Cheese | Dezeen](http://www.dezeen.com/2013/11/20/olafur-eliasson-tears-used-to-make-human-cheese/)
+
+[Christina Agapakis](http://agapakis.com/)
+
+[Fermentophone](http://vimeo.com/77816656)
+
+[MSG, Seasoned For A Comeback | NPR](http://www.npr.org/blogs/thesalt/2013/11/17/245728214/msg-seasoned-for-a-comeback)
+
+[Judge Orders California Sriracha Factory to Halt Odor-Making Operations | Eater National](http://eater.com/archives/2013/11/27/judge-orders-sriracha-factory-to-halt-odormaking-operations.php)
+
+[How to Make Sriracha from Scratch | Serious Eats](http://www.seriouseats.com/2012/02/how-to-make-sriracha-from-scratch-sauces.html)
+
+[Milwaukee Will Smell Extra-Cheesy This Winter | Take Apart](http://www.takepart.com/article/2013/11/24/dairy-brine-milwaukee-cheese-roadways)
+
+[Bacteria Turn Dairy Waste Into Clean Burning Biofuel | Wisconsin Public Radio News](http://news.wpr.org/post/bacteria-turn-dairy-waste-clean-burning-biofuel)
+
+[Microbial biogeography of wine grapes is conditioned by cultivar, vintage, and climate | PNAS](http://www.pnas.org/content/early/2013/11/20/1317377110.abstract?sid=8f8cd724-4105-404f-ac6b-b1f4716426de)
+
+[Plastic tanks catch on in wine industry | The Press Democrat](http://www.pressdemocrat.com/article/20131103/business/131109940#page=0)
+
+[Why We Don't Eat Beef for Thanksgiving | Mother Jones](http://www.motherjones.com/environment/2013/11/seasonal-meat-beef-turkey-thanksgiving)
+
+[Science After Dark | Facebook](https://www.facebook.com/ScienceAfterDarkSLO)
+
+[Science and Cooking 2013 Lecture Series | Harvard School of Engineering and Applied Sciences](http://www.seas.harvard.edu/cooking)
+
+[The Science of Gastronomy | Coursera](https://www.coursera.org/course/scigast)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

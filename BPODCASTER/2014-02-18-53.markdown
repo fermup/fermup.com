@@ -1,0 +1,31 @@
+---
+title: "53: Allisons Fridge"
+subtitle: "Uncontrolled Rot"
+summary: "This week we talk about kefir, sourdough, making fermentation habits, communal aspects to food and ferments, and the rotting food hiding in Allison's Fridge."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-53.mp3"
+enclosureLength: 31105632
+guid: episode-53
+duration: "01:04"
+keywords: "sourdough, kefir, vegetable fermentation"
+explicit: "no"
+month: Feb
+day: 18
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we talk about kefir, sourdough, making fermentation habits, communal aspects to food and ferments, and the rotting food hiding in Allison's Fridge."
+---
+This week we talk about kefir, sourdough, making fermentation habits, communal aspects to food and ferments, and the rotting food hiding in Allison's Fridge.
+
+Show notes:
+
+![Rotting Food in Back of Fridge](/images/episode-53-allisons-fridge.jpg "FermUp 53: Allison's Fridge")
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

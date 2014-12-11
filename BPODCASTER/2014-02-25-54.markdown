@@ -1,0 +1,42 @@
+---
+title: "54: Is Home Brewing Frugal?"
+subtitle: "Money savings or Expensive Hobby"
+summary: "This week we check in on Tiny, talk about baby poop inspired fermented meats, discuss the economics of home brewing beer, and finish off with a challenging duel of a bake off."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-54.mp3"
+enclosureLength: 30060192
+guid: episode-54
+duration: "01:02:37"
+keywords: "beer brewing, homebrew, frugal, fermentation, pooperoni"
+explicit: "no"
+month: Feb
+day: 25
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we check in on Tiny, talk about baby poop inspired fermented meats, discuss the economics of home brewing beer, and finish off with a challenging duel of a bake off."
+---
+This week we check in on Tiny, talk about baby poop inspired fermented meats, discuss the economics of home brewing beer, and finish off with a challenging duel of a bake off.
+
+Show notes:
+
+![New FermUp Podcast Image](/images/fermup-podcast-logo.jpg "FermUp 54: New Image and Logo")
+
+[Pooperoni? Baby-Poop Bacteria Help Make Healthy Sausages | LiveScience](http://www.livescience.com/43465-baby-poop-sausage-probiotic.html)
+
+[We're on TV! | Fermenters Club](http://www.fermentersclub.com/savorsandiego2014/)
+
+[Mystic Brewery's Entropy dives deep into brewing arts | The Boston Globe](http://www.bostonglobe.com/lifestyle/food-dining/2014/02/14/mystic-brewery-entropy-dives-deep-into-brewing-arts/HqnOz6xj0X6rDDn0E9VbnK/story.html)
+
+[53: Allisons Fridge | FermUp](http://fermup.com/podcast/53/)
+
+[Country Bread With Apples | NY Times](http://www.nytimes.com/2014/02/21/health/country-bread-with-apples.html?_r=1)
+
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

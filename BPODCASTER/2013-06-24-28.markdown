@@ -1,0 +1,51 @@
+---
+title: "28: Microbiologist Benjamin Wolfe Talks Cheese Rinds"
+subtitle: "Beautiful battles and cooperation on the microscopic scale"
+summary: "This week's guest is Harvard microbiologist Benjamin Wolfe. Our conversation enters the world of cheese rinds and the fascinating dynamics at play."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-28.mp3"
+enclosureLength: 24957984
+guid: episode-28
+duration: "51:44"
+keywords: "cheese rinds, microbiology, mycology, cheese microbes"
+explicit: "no"
+month: Jun
+day: 24
+year: 2013
+tags:
+ - dairy
+author: Branden Byers
+description: "This week's guest is Harvard microbiologist Benjamin Wolfe. Our conversation enters the world of cheese rinds and the fascinating dynamics at play."
+---
+This week's guest is Harvard microbiologist Benjamin Wolfe. Our conversation enters the world of cheese rinds and the fascinating dynamics at play.
+
+![Episode 28 - Harvard Microbiologist Benjamin Wolfe](/images/episode-28-benjamin-wolfe.jpg "Special Guest and Harvard microbiologist Benjamin Wolfe Talks Cheese Rinds")
+
+![Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com](/images/episode-28-bayley-rind.jpg "Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com")
+
+![Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com](/images/episode-28-bayley-rind-2.jpg "Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com")
+
+![Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com](/images/episode-28-bayley-rind-3.jpg "Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com")
+
+![Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com](/images/episode-28-twig-rind.jpg "Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com")
+
+![Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com](/images/episode-28-interactions.jpg "Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com")
+
+![Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com](/images/episode-28-cheese-rind.jpg "Photos Courtesy of Benjamin Wolfe and benjaminewolfe.com")
+
+Show notes:
+
+[The Dutton Lab](https://sites.google.com/site/theduttonlab/)
+
+[Microbial Diversity & Interactions | YouTube](http://www.youtube.com/watch?feature=player_embedded&v=cONl-7k3se4)
+
+[California Artisan Cheese Guild - Ben Wolfe, PhD "Meet Your Molds" - YouTube](http://www.youtube.com/watch?v=hP9C7Yl7FsQ)
+
+[Last Chance Foods: Studying Mold and Mites at Murray's Cheese - WNYC](http://www.wnyc.org/articles/last-chance-foods/2013/may/03/last-chance-foods-studying-mold-and-mites-murrays-cheese/)
+
+[Alcamo's Microbes and Society, Third Edition](http://www.amazon.com/exec/obidos/ASIN/0763790648/fermup-20)
+
+[The Global Cheese Technology Forum](http://www.globalcheesetechnologyforum.org/)
+
+[Benjamin Wolfe's Website](http://www.benjaminewolfe.com/)
+
+[Benjamin Wolfe LupoLabs on Twitter](https://twitter.com/LupoLabs)

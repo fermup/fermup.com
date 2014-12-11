@@ -1,0 +1,56 @@
+---
+title: "26: Fermented Pairings and Cavity-Free Cheese"
+subtitle: "Show us that cheesy smile!"
+summary: "This week is a smorgasbord of fermented food topics and related happenings in the world of fermentation. Fermented food pairings at No. 9 Park in Boston, cavity-free teeth from cheese, aging cheese in caves, and making sausages with preserved lemons."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-26.mp3"
+enclosureLength: 22739008
+guid: episode-26
+duration: "47:22"
+keywords: "cheese, dentistry, restaurants, fermentation, kombucha, black garlic, cheese caves"
+explicit: "no"
+month: Jun
+day: 10
+year: 2013
+tags:
+  - vegetables
+  - dairy
+author: Branden Byers
+description: "This week is a smorgasbord of fermented food topics and related happenings in the world of fermentation. Fermented food pairings at No. 9 Park in Boston, cavity-free teeth from cheese, aging cheese in caves, and making sausages with preserved lemons."
+---
+This week is a smorgasbord of fermented food topics and related happenings in the world of fermentation. Fermented food pairings at No. 9 Park in Boston, cavity-free teeth from cheese, aging cheese in caves, and making sausages with preserved lemons.
+
+Show notes:
+
+![Cheesy Smile](/images/cheesy-smile.jpg "Cheese may keep you cavity-free.")
+
+[Cheese may prevent cavities | Science Daily](http://www.sciencedaily.com/releases/2013/06/130605130118.htm)
+
+Say cheese for a beautiful smile!
+
+[In vivo dental plaque pH after consumption of dairy products | Academy of General Dentistry](http://www.agd.org/media/142829/mj13_yadav.pdf)
+
+The full published journal article.
+
+[How Fermentation is Used at No. 9 Park](http://www.bostonmagazine.com/restaurants/blog/2013/06/05/a-marriage-of-science-and-cooking/)
+
+Check out this new series of articles in the Boston Magazine written by Ben Wolfe and Scott Jones. Fermented foods in fine dining. Learn how to ferment fartichokes and kombucha fish.
+
+[No. 9 Park Restaurant](http://no9park.com/)
+
+Delicious sounding fermented food pairing at No. 9 Park. Yum.
+
+[Study Reveals Changes in Gut Microflora Can Affect Brain Function | Medicine | Sci-News.com](http://www.sci-news.com/medicine/article01138-probiotic-microflora-brain.html)
+
+[Consumption of Fermented Milk Product With Probiotic Modulates Brain Activity](http://www.gastrojournal.org/article/S0016-5085(13)00292-8/abstract)
+
+Regular consumption of yogurt may affect your brain activity.
+
+[The cheese cave: Damp conditions of the Welsh countryside is the ideal place to store maturing cheddars | Mail Online](http://www.dailymail.co.uk/news/article-2337837/The-cheese-cave-Damp-conditions-Welsh-countryside-ideal-place-store-maturing-cheddars.html?ito=feeds-newsxml)
+
+Aging cheese old-school style in caves.
+
+[Blaenafon cheddar company specialist cheese manufactures](http://www.chunkofcheese.co.uk/)
+
+[IDEAS IN FOOD: Preserved Lemon Sausage Begins](http://blog.ideasinfood.com/ideas_in_food/2013/06/preserved-lemon-sausage-begins.html)
+
+Now this is a good idea in food and a great way to use preserved lemons.

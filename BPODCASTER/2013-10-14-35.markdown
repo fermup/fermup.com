@@ -1,0 +1,41 @@
+---
+title: "35: Micro 101 Mixup"
+subtitle: "Microbiology is fun!"
+summary: "We're back with a new season of fermentation and a new co-host! This week we talk microbiology. Maybe we can call it a 101 introduction but it is probably more of a discussion of what we find fascinating about microbes in food."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-35.mp3"
+enclosureLength: 28459216
+guid: episode-35
+duration: "59:17"
+keywords: "microbiology, food science, fermentation"
+explicit: "no"
+month: Oct
+day: 14
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "We're back with a new season of fermentation and a new co-host! This week we talk microbiology. Maybe we can call it a 101 introduction but it is probably more of a discussion of what we find fascinating about microbes in food."
+---
+We're back with a new season of fermentation fun. And a new co-host! This week we talk microbiology. Maybe we could call it a 101 introduction but it is probably more of a discussion on what we find fascinating about microbes in food.
+
+Show notes:
+
+[Episode 31: Food Scientists, Wine and Beer | FermUp](http://fermup.com/podcast/31/)
+
+If you missed it, here is the episode where Allison is first interviewed on FermUp.
+
+[Episode 16: Fish Sauce was The Original Ketchup | FermUp](http://fermup.com/podcast/16/)
+
+This is the previous episode that covers MSG.
+
+[The Microbiology of Beer | The Microbes After Hours series](http://www.microbeworld.org/podcasts/asm-after-hours/1472-the-microbiology-of-beer-the-microbes-after-hours-series-6-8-pm-thursday-october-10-2013)
+
+We plan to talk about this talk in a future episode. Watch it to get a head start on the discussion.
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://plus.google.com/105180856926180817750).

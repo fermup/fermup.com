@@ -1,0 +1,37 @@
+---
+title: "60: It's Roqueforti Sexy Time!"
+subtitle: "New discoveries in Blue Cheese Mold"
+summary: "This we talk the discovery of blue cheese mold's sexual potential, sourdough, carbonation, and plenty of follow-up."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-60.mp3"
+enclosureLength: 25285616
+guid: episode-60
+duration: "51:08"
+keywords: "blue cheese, fermentation"
+explicit: "no"
+month: Apr
+day: 08
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This we talk the discovery of blue cheese mold's sexual potential, sourdough, carbonation, and plenty of follow-up."
+---
+This we talk the discovery of blue cheese mold's sexual potential, sourdough, carbonation, and plenty of follow-up.
+
+Show notes:
+
+[Induction of sexual reproduction and genetic diversity in the cheese fungus Penicillium roqueforti | Wiley Online Library](http://onlinelibrary.wiley.com/doi/10.1111/eva.12140/full)
+
+[Craft Brewery Startup Workshop II | Professional and Continuing Education | Oregon State University](https://pace.oregonstate.edu/catalog/craft-brewery-startup-workshop-ii)
+
+[Craft Cidery Startup Workshop | Professional and Continuing Education | Oregon State University](https://pace.oregonstate.edu/ciderystartup)
+
+[How To Make Your Own Home Drink Carbonation System | Popular Science](http://www.popsci.com/diy/article/2012-06/how-make-your-own-home-carbonation-system)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

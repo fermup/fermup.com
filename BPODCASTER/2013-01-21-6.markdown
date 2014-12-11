@@ -1,0 +1,34 @@
+---
+title: "Episode 6: Fermentation Labs &amp; Kefir"
+subtitle: "Are we about to enter a Golden Age in Fermentation Science?"
+summary: "This week's conversation is about the intersection between science and tradition in modern food fermentation kitchens and labs. Many chefs, small-scale producers and hobbyists desire a deeper understanding of what is going on inside of their ferments. We also discuss how to make a kombucha culture from &quot;scratch,&quot; the success of commercial kefir, and a wine by-product that could increase dietary fibre in your yogurt."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-6.mp3"
+enclosureLength: 27089152
+guid: episode-6
+duration: "56:10"
+keywords: "kombucha, kefir, wine, yogurt, fermentation, science"
+explicit: "no"
+month: JAN
+day: 21
+year: 2013
+tags:
+  - vegetables
+  - dairy
+author: Branden Byers
+description: "This week's conversation is about the intersection between science and tradition in modern food fermentation kitchens and labs. Many chefs, small-scale producers and hobbyists desire a deeper understanding of what is going on inside of their ferments. We also discuss how to make a kombucha culture from &quot;scratch,&quot; the success of commercial kefir, and a wine by-product that could increase dietary fibre in your yogurt."
+---
+This week's conversation is about the intersection between science and tradition in modern food fermentation kitchens and labs. Many chefs, small-scale producers and hobbyists desire a deeper understanding of what is going on inside of their ferments. We also discuss how to make a kombucha culture from "scratch," the success of commercial kefir, and a wine by-product that could increase dietary fibre in your yogurt.
+
+Show notes:
+
+[Kimchi Omelet Recipe | appetite for china](http://appetiteforchina.com/recipes/kimchi-omelet/ "Kimchi Omelet")
+
+[Wine by-product increases dietary fibre content of yogurt | Dairy Reporter](http://www.dairyreporter.com/R-D/Wine-by-product-increases-dietary-fibre-content-of-yogurt-US-research "Wine by-product increases dietary fibre content of yogurt")
+
+[How an Ancient Beverage Found Fame on Social Media | Mashable](http://mashable.com/2013/01/09/lifeway-kefir-social-media/ "How an Ancient Beverage Found Fame on Social Media")
+
+[The Momofuku fermentation lab: where food meets science | AM New York](http://www.amny.com/urbanite-1.812039/the-momofuku-fermentation-lab-where-food-meets-science-1.4421703 "The Momofuku fermentation lab")
+
+[Modernist Cuisine: The Art and Science of Cooking | Amazon](http://www.amazon.com/gp/product/0982761007/ref=as_li_ss_tl?ie=UTF8&tag=fer06b-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0982761007 "Modernist Cuisine The Art and Science of Cooking")
+
+[For Gastronomists, a Go-To Microbiologist | The New York Times](http://www.nytimes.com/2012/09/19/dining/for-gastronomists-a-go-to-microbiologist.html?pagewanted=all&_r=0 "For Gastronomists, a Go-To Microbiologist")

@@ -1,0 +1,33 @@
+---
+title: "73: The Everyday Fermentation Handbook"
+subtitle: "New Cookbook Coming Soon!"
+summary: "This week we talk about Branden's upcoming fermentation cookbook."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-73.mp3"
+enclosureLength: 14439376
+guid: episode-73
+duration: "28:32"
+keywords: "fermentation, cookbook, handbook"
+explicit: "no"
+month: Jul
+day: 08
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we talk about Branden's upcoming fermentation cookbook."
+---
+This week we talk about Branden's upcoming fermentation cookbook.
+
+Show notes:
+
+![The Everyday Fermentation Handbook Sneak Peak](/images/everyday-fermentation-handbook.jpg "FermUp 73: The Everyday Fermentation Handbook")
+
+[The Everyday Fermentation Handbook](http://fermentationhandbook.com/)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

@@ -1,0 +1,33 @@
+---
+title: "Episode 8: Greek Yogurt and Kombucha Baby"
+subtitle: "Where does all the whey go and is kombucha tea healthy?"
+summary: "This week we discuss greek yogurt in schools, up-cycling of commercial whey waste, the healthiness of kombucha and then we debate whether or not eating a kombucha SCOBY is like eating a placenta."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-8.mp3"
+enclosureLength: 29284976
+guid: episode-8
+duration: "01:01"
+keywords: "kombucha, fermentation, tea, greek yogurt, school lunch, placenta"
+explicit: "no"
+month: Feb
+day: 04
+year: 2013
+tags:
+  - vegetables
+  - dairy
+author: Branden Byers
+description: "This week we discuss greek yogurt in schools, up-cycling of commercial whey waste, the healthiness of kombucha and then we debate whether or not eating a kombucha SCOBY is like eating a placenta."
+---
+This week we discuss greek yogurt in schools, up-cycling of commercial whey waste, the healthiness of kombucha and then we debate whether or not eating a kombucha SCOBY is like eating a placenta.
+
+Show notes:
+
+[USDA Approves Putting Greet Yogurt on School Lunch Menus | CNY News](http://cnynews.com/usda-approves-getting-greek-yogurt-on-school-lunch-menus/)
+
+[Whey, The downside to the greek yogurt explosion | Business Week](http://www.businessweek.com/articles/2013-01-31/whey-the-downside-to-the-greek-yogurt-explosion)
+
+[The Turkish King of Greek Yogurt | Business Week](http://www.businessweek.com/articles/2013-01-31/at-chobani-the-turkish-king-of-greek-yogurt)
+
+[Grow Your Own Clothes | TED](http://www.ted.com/talks/suzanne_lee_grow_your_own_clothes.html)
+
+[Linsday Lohan and Kombucha Tea Alcohol | LA Times](http://latimesblogs.latimes.com/gossip/2011/06/lindsay-lohan-kombucha-tea-alcohol.html)
+

@@ -1,0 +1,43 @@
+---
+title: "69: Placentas, Microbiomes, and Popular News"
+subtitle: "Does microbiome reporting go too far?"
+summary: "This week we discuss recent science reporting on bacteria in placentas and then we talk about the line between speculating and misleading."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-69.mp3"
+enclosureLength: 22407456
+guid: episode-69
+duration: "46:40"
+keywords: "microbiome, bacteria, fermentation"
+explicit: "no"
+month: Jun
+day: 10
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we discuss recent science reporting on bacteria in placentas and then we talk about the line between speculating and misleading."
+---
+This week we discuss recent science reporting on bacteria in placentas and then we talk about the line between speculating and misleading.
+
+Show notes:
+
+[53: Allisons Fridge | FermUp](http://fermup.com/podcast/53/)
+
+[Study Sees Bigger Role for Placenta in Newborns Health | NYTimes.com](http://www.nytimes.com/2014/05/22/health/study-sees-bigger-role-for-placenta-in-newborns-health.html)
+	
+[The Placenta Harbors a Unique Microbiome | ScienceMag](http://stm.sciencemag.org/content/6/237/237ra65)	
+	
+[The Tree of Life: Overselling the microbiome award | Phylogenomics](http://phylogenomics.blogspot.com/2014/05/overselling-microbiome-award-many-for.html)
+	
+[Jonathan Eisen: Meet your microbes | TED](http://www.ted.com/talks/jonathan_eisen_meet_your_microbes)
+
+[Reedsburg Fermentation Fest](http://fermentationfest.com/)
+
+[Farm to Fermentation Festival | August 24th 2014 at Finley Community Center](http://www.farmtofermentation.com/)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

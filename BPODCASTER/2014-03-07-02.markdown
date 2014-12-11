@@ -1,0 +1,28 @@
+---
+title: "WTF 02: Lactic Acid Bacteria"
+subtitle: "What are LAB?"
+summary: "Allison and Branden answer the question, what are LAB?"
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/wtf-02.mp3"
+enclosureLength: 3216496
+guid: episode-01
+duration: "06:14"
+keywords: "vegetable, grain, legume, alcohol, fermentation, food"
+explicit: "no"
+month: Mar
+day: 07
+year: 2014
+image: /images/wtf-podcast-logo-long.png
+imagealt: What the Ferment Podcast
+category: wtf
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "Allison and Branden answer the question, what are LAB?"
+---
+Allison and Branden answer the question, "What are LAB?"
+
+---
+
+Send your feedback to <a href="mailto:wtf@fermup.com">wtf@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

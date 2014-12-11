@@ -1,0 +1,42 @@
+---
+title: "41: Bacteriocins Ain't Boring"
+subtitle: "Super Hero Bugs and Their Shields"
+summary: "When we think of microbes in human terms, sometimes, they seem to have pretty cool super powers. This week we discuss bacteriocins and other microbiologically produced inhibitors and barriers (a.k.a. super hero shields). Microbes are awesome!"
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-41.mp3"
+enclosureLength: 24348928
+guid: episode-41
+duration: "50:43"
+keywords: "bacteriocins, microbes, bacteria, fermentation, super heroes"
+explicit: "no"
+month: Nov
+day: 25
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "When we think of microbes in human terms, sometimes, they seem to have pretty cool super powers. This week we discuss bacteriocins and other microbiologically produced inhibitors and barriers (a.k.a. super hero shields). Microbes are awesome!"
+---
+When we think of microbes in human terms, sometimes, they seem to have pretty cool super powers. This week we discuss bacteriocins and other microbiologically produced inhibitors and barriers (a.k.a. super hero shields). Microbes are awesome!
+
+![Bacteriocins](/images/episode-41-bacteriocins.jpg "FermUp 41: Bacteriocins Aint Boring")
+
+Show notes:
+
+[Basic Food Microbiology | Amazon](http://www.amazon.com/exec/obidos/ASIN/0442221207/fermup-20)
+
+[Can We Eat Our Way To A Healthier Microbiome? It's Complicated | NPR](http://www.npr.org/blogs/thesalt/2013/11/08/243929866/can-we-eat-our-way-to-a-healthier-microbiome-its-complicated)
+
+[Kombucha: Magical Health Elixir Or Just Funky Tea? | NPR](http://www.npr.org/blogs/thesalt/2013/09/30/226531998/kombucha-magical-health-elixir-or-just-funky-tea)
+
+[Kimchi Festival: 25 Tons of Spicy, Fermented Cabbage (PHOTOS) | Weather](http://www.weather.com/travel/korean-women-make-25-tons-kimchi-poor-photos-20131118)
+
+[Gut Bacteria Might Guide The Workings Of Our Minds | NPR](http://www.npr.org/blogs/health/2013/11/18/244526773/gut-bacteria-might-guide-the-workings-of-our-minds)
+
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

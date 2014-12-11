@@ -1,0 +1,46 @@
+---
+title: "78: Kraut Source and Karen Diggs"
+subtitle: "Stainless Steel Fermentation Gadget"
+summary: "This week we have special guest Karen Diggs of Kraut Source. She's a chef, nutritionist, and she is in the middle of a highly successful fermentation gadget kickstarted campaign."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-78.mp3"
+enclosureLength: 17017664
+guid: episode-78
+duration: "33:54"
+keywords: "kraut source, vegetable fermentation, kitchen gadget, kickstarted"
+explicit: "no"
+month: Aug
+day: 12
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we have special guest Karen Diggs of Kraut Source. She's a chef, nutritionist, and she is in the middle of a highly successful fermentation gadget kickstarted campaign."
+---
+This week we have special guest Karen Diggs of Kraut Source. She's a chef, nutritionist, and she is in the middle of a highly successful fermentation gadget kickstarted campaign.
+
+Show notes:
+
+![Kraut Source Kickstarter](/images/fermup-78-kraut-source.jpg "FermUp 78: Karen Diggs and Kraut Source")
+
+[Kraut Source](http://www.culturedgourmet.com/)
+
+[Kraut Source - Fermentation Made Simple by Karen Diggs and Eric Klein — Kickstarter](https://www.kickstarter.com/projects/1412648491/kraut-source-fermentation-made-simple)
+
+[Bauman College](http://www.baumancollege.org/)
+
+[Farm to Fermentation Festival | August 24th 2014 at Finley Community Center](http://www.farmtofermentation.com/)
+
+[Maker Faire | The Greatest Show and Tell on Earth](http://makerfaire.com/)
+
+[Kraut Source on Facebook](https://www.facebook.com/krautsource)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).
+
+
+fermup-78-kraut-source.jpg

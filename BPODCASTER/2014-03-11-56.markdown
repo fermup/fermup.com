@@ -1,0 +1,46 @@
+---
+title: "56: Artificial Intelligence"
+subtitle: "What Would Robots Ferment?"
+summary: "This week Branden and Allison talk about the IBM Watson computer becoming a recipe author and how this could be applied to fermentation."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-56.mp3"
+enclosureLength: 34296096
+guid: episode-56
+duration: "01:09:54"
+keywords: "ibm, watson, fermentation, cooking, bread, kimchi"
+explicit: "no"
+month: Mar
+day: 11
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week Branden and Allison talk about the IBM Watson computer becoming a recipe author and how this could be applied to fermentation."
+---
+This week Branden and Allison talk about the IBM Watson computer becoming a recipe author and how this could be applied to fermentation.
+
+Stop by and say hello to Branden at the Good Food Festival this Saturday!
+
+Show notes:
+
+![??](/images/episode-56-artificial-intelligence.jpg "FermUp 56: Artificial Intelligence")
+
+[First Annual Zymology Fest | Slow Food Madison](http://slowfoodmadison.org/2014/01/first-annual-zymology-fest/)
+
+[Good Food "Ferment" Festival | FermUp](http://fermup.com/blog/good-food-ferment-festival/)
+
+[Festival and Workshops | Good Food Festival](http://goodfoodfestivals.com/chicago/saturday-festival/)
+
+[IBM Watson supercomputer learns how to cook at SXSW 2014 | YouTube](http://www.youtube.com/watch?v=yrfMcNE0y9s)
+
+[Country Bread With Apples - NYTimes.com](http://www.nytimes.com/2014/02/21/health/country-bread-with-apples.html?_r=2)
+
+[Nabak Kimchi | Beyond Kimchi](http://www.beyondkimchee.com/nabak-kimchi-water-kimchi/)
+
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

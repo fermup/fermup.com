@@ -1,0 +1,40 @@
+---
+title: "31: Food Scientists, Wine and Beer"
+subtitle: "How to fall into food science"
+summary: "Join Branden and special guest Allison Wells as we talk fermentation and how one becomes a food scientist."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-31.mp3"
+enclosureLength: 59434350
+guid: episode-31
+duration: "41:16"
+keywords: "food science, fermentation, allison wells, beer, wine"
+explicit: "no"
+month: Jul
+day: 21
+year: 2013
+tags:
+  - vegetables
+  - grains
+author: Branden Byers
+description: "Join Branden and special guest Allison Wells as we talk fermentation and how one becomes a food scientist."
+---
+Join Branden and special guest Allison Wells as we talk fermentation and how one becomes a food scientist.
+
+Show notes:
+
+![Allison Wells - Fermentation Scientist](/images/episode-31-allison-wells.jpg "Special Guest Allison Wells - Fermentation Scientist")
+
+Allison Wells is a graduate of the Purdue University School of Food Science. While at Purdue, she spent a summer working in France on a small, family owned winery where she helped with odd jobs and selling wine at the local farmers markets and wine shops. This experience sparked her interest in fermentation and a desire to learn more about microbiology and biochemistry. After graduation, she completed an internship at E&J Gallo Winery in their enology research lab. Allison was also awarded a two-year assistantship at Oregon State University, earning a M.S. in Food and Fermentation Science, with a focus on wine microbiology. Upon graduation Allison was hired by White Labs, a small yeast production company in San Diego. She spent three years as their yeast culture specialist, acting as a curator of over 100 yeast and bacteria strains, as well as directing the bacteria & wild yeast lab. Allison became an expert in native isolates and helped to discover Rogue's 'Beard Yeast'. She is currently working at a freelance fermentation scientist helping the local San Diego community to better understand fermentation, food science, and urban microflora.
+
+[Yeast: The Practical Guide to Beer Fermentation by Jamil Zainasheff and Chris White](http://www.amazon.com/exec/obidos/ASIN/0937381969/fermup-20)
+
+[Techniques in Home Winemaking: The Comprehensive Guide to Making Chateau-Style Wines by Daniel Pambianchi](http://www.amazon.com/exec/obidos/ASIN/1550652362/fermup-20)
+
+[Welcome to Temecula Valley Wine Country](http://www.temeculawines.org/)
+
+[White Labs | Pure Yeast and Fermentation](http://www.whitelabs.com/)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://plus.google.com/105180856926180817750).

@@ -1,0 +1,41 @@
+---
+title: "58: Cacao Fermentation and Flavor"
+subtitle: "An important step in chocolate production"
+summary: "This week we talk cacao fermentation, one of the very important steps in the production of chocolate. Without fermentation, chocolate would not develop the flavor characteristics that make chocolate taste so good."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-58.mp3"
+enclosureLength: 26484368
+guid: episode-58
+duration: "53:37"
+keywords: "cacao fermentation, chocolate production"
+explicit: "no"
+month: Mar
+day: 25
+year: 2014
+tags:
+  - vegetables
+author: Branden Byers
+description: "This week we talk cacao fermentation, one of the very important steps in the production of chocolate. Without fermentation, chocolate would not develop the flavor characteristics that make chocolate taste so good."
+---
+This week we talk cacao fermentation, one of the very important steps in the production of chocolate. Without fermentation, chocolate would not develop the flavor characteristics that make chocolate taste so good.
+
+Show notes:
+
+![Cacao Fermentation](/images/episode-58-cacao-fermentation.jpg "FermUp 58: Cacao Fermentation and Flavor")
+
+[CulturedPickle: Tokyo Turnips Fermented in Fennel and Bee Pollen Brine | Twitter](https://twitter.com/CulturedPickle/status/446285160174985219)
+
+[Last Chance Foods: Why You Shouldn’t Eat Raw Chocolate - WNYC](http://www.wnyc.org/story/last-chance-foods-why-you-shouldnt-eat-raw-chocolate/)
+
+[Cacao Prieto](http://cacaoprieto.com/)
+
+[Science of Cacao - Preserving the bio-diversity of cacao in the DR | Cacao Prieto](http://cacaoprieto.com/ourfarm/cacao-science/)
+	
+[24: Chocolate Harvest and Fermentation | FermUp](http://fermup.com/podcast/24/)
+	
+[Optimizing Chocolate Production | PDF](http://orbit.dtu.dk/files/20803556/Optimizing_chocolate_production.pdf)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

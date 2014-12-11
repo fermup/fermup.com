@@ -1,0 +1,60 @@
+---
+title: "Episode 14: The Botulism Bogeyman and Other Fermented Fears"
+subtitle: "Sleep well understanding why your fermented foods are safe"
+summary: "This week we confront Botulism and other fears of food fermentation. Can you contract botulism from leaving vegetables to ferment at room temperature? The short answer is no. But listen in for a deeper understanding of why this doesn't happen, where botulism does occur and when these fears originated. Then we finish up with a brief discussion of Chicago's first Kimchi Challenge."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-14.mp3"
+enclosureLength: 30078704
+guid: episode-14
+duration: "01:02:24"
+keywords: "botulism, botulin, fear, fermented foods, canning, kimchi"
+explicit: "no"
+month: Mar
+day: 18
+year: 2013
+tags:
+  - vegetables
+  - dairy
+author: Branden Byers
+description: "This week we confront Botulism and other fears of food fermentation. Can you contract botulism from leaving vegetables to ferment at room temperature? The short answer is no. But listen in for a deeper understanding of why this doesn't happen, where botulism does occur and when these fears originated. Then we finish up with a brief discussion of Chicago's first Kimchi Challenge."
+---
+This week we confront Botulism and other fears of food fermentation. Can you contract botulism from leaving vegetables to ferment at room temperature? The short answer is no. But listen in for a deeper understanding of why this doesn't happen, where botulism does occur and when these fears originated.
+
+Then we finish up with a brief discussion of Chicago's first Kimchi Challenge and all of the wonderful tastes and flavors.
+
+Show notes:
+
+<a href="http://commons.wikimedia.org/wiki/File:C._botulnium_AEY_lipase.JPG" target="_blank" alt="Clostridium botulinum" title="Clostridium botulinum | Wikipedia"><img src="/images/clostridium-botulinum.jpg" alt="Clostridium botulinum by Matthias M."></a>
+
+[National Botulism Surveillance | CDC](http://www.cdc.gov/nationalsurveillance/botulism_surveillance.html)
+
+*Since 1973, the CDC has maintained an intensive National Botulism Surveillance System for cases of botulism in the United States. Because the CDC, Alaska and California are the only sources of botulism antitoxin administered in the United States, nearly all recognized cases of botulism are reported. Summaries available as PDFs from 2001 to 2011.*
+
+[Botulism, General Information | CDC](http://www.cdc.gov/nczved/divisions/dfbmd/diseases/botulism/)
+
+*Again, from the CDC website, this link provides good basic frequently asked questions about Botulism and Clostridium botulinum.*
+
+[Fact Sheet on Clostridium botulinum | USDA](http://www.fsis.usda.gov/factsheets/Clostridium_botulinum/index.asp)
+
+*Similar to the previous link but from the USDA with a focus on foodborne safety and illness.*
+
+[Bacteria | HowStuffWorks](http://science.howstuffworks.com/life/cellular-microscopic/bacteria-info2.htm)
+
+*Learn more about how bacteria, and specifically, endospores work in the real world. Fun facts such as, "Some endospores can survive for centuries." That's crazy!*
+
+[Bacterial Endospores | Cornell](http://micro.cornell.edu/cals/micro/research/labs/angert-lab/bacterialendo.cfm)
+
+*Cornell University provides a deeper look at endospores through structure and purpose. Very intriguing stuff. These survival tactics are pretty amazing even if they do have the potential to cause human damage.*
+
+[Survival of Escherichia coli O157:H7 in Cucumber Fermentation Brines | PDF)](http://ncsu.edu/foodscience/USDAARS/Acrobatpubs/P351-375/p373.pdf)
+
+*Six page paper on the awesome powers of lactic acid bacteria (LAB) against their foes such as E. coli and botulism. Go LAB!*
+
+[Kimchi Challenge Chicago | Good Food Festival](http://goodfoodfestivals.com/chicago/saturday-festival/kimchi-challenge/)
+
+*If you missed the Kimchi Challenge, we will have a FermUp article posted soon, but in the meantime, here is a link to the descriptions of the judges and chef participants.*
+
+---
+
+Like what you hear? Rate and review us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). This really does help others discover the podcast. Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or find us on Twitter [@fermup](https://twitter.com/fermup).

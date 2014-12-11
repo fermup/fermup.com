@@ -1,0 +1,35 @@
+---
+title: "81: Black Garlic Revisited"
+subtitle: "How to Black Garlic"
+summary: "This week Branden talks about his most recent exploration into making black garlic at home."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-81.mp3"
+enclosureLength: 7881840
+guid: episode-81
+duration: "14:52"
+keywords: "black garlic, fermentation, enzymatic"
+explicit: "no"
+month: Sep
+day: 05
+year: 2014
+tags:
+  - vegetables
+author: Branden Byers
+description: "This week Branden talks about his most recent exploration into making black garlic at home."
+---
+This week Branden talks about his most recent exploration into making black garlic at home.
+
+Show notes:
+
+![Black Garlic](/images/fermup-81-black-garlic.jpg "FermUp 81: Black Garlic Revisited")
+
+[Johnson Controls A419ABC-1C Electronic Temp Controller | Amazon](http://www.amazon.com/exec/obidos/ASIN/B0026NDC5O/fermup-20)
+
+[Black Garlic | Nordic Food Lab](http://nordicfoodlab.org/blog/2013/2/black-garlic)
+
+[The Heal Your Gut Cookbook: Nutrient-Dense Recipes for Intestinal Health Using the GAPS Diet | Amazon](http://www.amazon.com/The-Heal-Your-Cookbook-Nutrient-Dense/dp/1603585613/ref=sr_1_1?ie=UTF8&qid=1409939240&sr=8-1&keywords=heal+your+gut+cookbook)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

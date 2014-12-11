@@ -1,0 +1,35 @@
+---
+title: "45: Reads Like a Story"
+subtitle: "GBP from 1892"
+summary: "This week we talk about our reading of a 1982 study on Ginger Beer Plant."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-45.mp3"
+enclosureLength: 7774864
+guid: episode-45
+duration: "16:11"
+keywords: "ginger beer plant, GBP, water kefir, fermentation"
+explicit: "no"
+month: Dec
+day: 23
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we talk about our reading of a 1982 study on Ginger Beer Plant."
+---
+This week we talk about our reading of a 1982 study on Ginger Beer Plant.
+
+Show notes:
+
+![Images from GBP Study](/images/episode-45-ginger-beer-plant-study.jpg "FermUp 45: Reads Like a Story")
+
+[The Ginger-Beer Plant, and the Organisms Composing it: A Contribution to the Study of Fermentation-Yeasts and Bacteria by H Ward | Archive](https://archive.org/details/philtrans03540404)
+
+[The Ginger-Beer Plant, and the Organisms Composing it: A Contribution to the Study of Fermentation-Yeasts and Bacteria | PDF Link](https://ia600507.us.archive.org/26/items/philtrans03540404/03540404.pdf)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

@@ -1,0 +1,43 @@
+---
+title: "64: Exploding Cans of Fish"
+subtitle: "Surstromming Fires and More"
+summary: "This week we talk about the recent Surstromming incident in Sweden, a beer brewing C02 digester, arsenic in rice bran used for nukazuke, and more."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-64.mp3"
+enclosureLength: 22512320
+guid: episode-64
+duration: "45:21"
+keywords: "surstromming, fish, fermentation, arsenic, rice"
+explicit: "no"
+month: May
+day: 06
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we talk about the recent Surstromming incident in Sweden, a beer brewing C02 digester, arsenic in rice bran used for nukazuke, and more."
+---
+This week we talk about the recent Surstromming incident in Sweden, a beer brewing C02 digester, arsenic in rice bran used for nukazuke, and more.
+
+Show notes:
+
+[Sweden fire turns cans of rotten fish into exploding missiles | BBC News](http://www.bbc.com/news/world-middle-east-27258303)
+
+[Surstr&ouml;mming cans exploded in boathouse fire | Hudiksvall](http://helahalsingland.se/hudiksvall/1.7098350-surstromming-cans-exploded-in-boathouse-fire)
+
+[Fermented herring explosion causes a stink | Radio Sweden Sveriges Radio](http://sverigesradio.se/sida/artikel.aspx?programid=2054&artikel=5851618)
+
+[Algae Meets Breweries: algae greenhouse lowers brewery CO2 | Kickstarter](https://www.kickstarter.com/projects/algaebeer/algae-meets-breweries-algae-greenhouse-lowers-brew)
+
+[Pickled Green Strawberries | Fermenters Club](http://www.fermentersclub.com/green-strawberries/)
+
+[Organic Farming in San Diego | Suzie's Farm](http://suziesfarm.com/)
+
+[Superfood rice bran contains arsenic | New Scientist](http://www.newscientist.com/article/dn14592-superfood-rice-bran-contains-arsenic.html#.U2gYuK1dWLV)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

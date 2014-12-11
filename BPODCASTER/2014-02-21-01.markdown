@@ -1,0 +1,28 @@
+---
+title: "WTF 01: What is Fermentation?"
+subtitle: "Fermentation is Everywhere"
+summary: "Allison and Branden answer the question, What is Fermentation?"
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/wtf-01.mp3"
+enclosureLength: 3714320
+guid: episode-01
+duration: "05:09"
+keywords: "sourdough, kefir, vegetable fermentation"
+explicit: "no"
+month: Feb
+day: 21
+year: 2014
+image: /images/wtf-podcast-logo-long.png
+imagealt: Fermup The Fermented Food Podcast
+category: wtf
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "Allison and Branden answer the question, What is Fermentation?"
+---
+Allison and Branden answer the question, "What is Fermentation?"
+
+---
+
+Send your feedback to <a href="mailto:wtf@fermup.com">wtf@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

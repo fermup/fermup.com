@@ -1,0 +1,33 @@
+---
+title: "Episode 9: Reasons to Ferment Food and Why We FIY"
+subtitle: "Did humans always enjoy fermented foods?"
+summary: "This week our conversation includes sauerkraut juice powering a water treatment plant, cheese flavor wheels, fermented coleslaw, and probiotic claims settlement. The second half our discussion leads into why people have fermented food throughout history and specifically, why we ferment it ourselves."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-9.mp3"
+enclosureLength: 35374880
+guid: episode-9
+duration: "01:13:26"
+keywords: "sauerkraut, coleslaw, kombucha, fermentation"
+explicit: "no"
+month: Feb
+day: 11
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week our conversation includes sauerkraut juice powering a water treatment plant, cheese flavor wheels, fermented coleslaw, and probiotic claims settlement. The second half our discussion leads into why people have fermented food throughout history and specifically, why we ferment it ourselves."
+---
+This week our conversation includes sauerkraut juice powering a water treatment plant, cheese flavor wheels, fermented coleslaw, and a probiotic claims settlement.
+
+The second half of our discussion leads into why people have fermented food throughout history and specifically, why we ferment it ourselves.
+
+Show notes:
+
+[Sauerkraut Powers Plant in France | BBC](http://www.bbc.co.uk/news/world-europe-21373306)
+
+[Real Food Fermentation by Alex Lewin | Amazon](http://www.amazon.com/exec/obidos/ASIN/1592537847/fermup-20)
+
+[General Mills $8.5 Million Settlement | Food Product Design](http://www.foodproductdesign.com/news/2013/02/general-mills-settles-yoplait-yogurt-lawsuits-in.aspx)
+
+[Cheese Flavor Infographic | PopSci](http://www.popsci.com/science/article/2013-02/what-does-cheese-really-taste-infographic)

@@ -1,0 +1,57 @@
+---
+title: "29: Light and Sweet Spoons"
+subtitle: "Just a bit of news this week"
+summary: "This week it is Branden discussing space station microbes, yogurt liqueur, music for wine, kimchi contamination and taste perception."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-29.mp3"
+enclosureLength: 7643408
+guid: episode-29
+duration: "15:55"
+keywords: "yogurt, taste, spoons, kimchi, fermentation, kombucha, space"
+explicit: "no"
+month: Jul
+day: 01
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week it is Branden discussing space station microbes, yogurt liqueur, music for wine, kimchi contamination and taste perception."
+---
+This week it is Branden discussing space station microbes, yogurt liqueur, music for wine, kimchi contamination and taste perception.
+
+Show notes:
+
+[Space Station Live: Microbiome Experiment | YouTube](http://www.youtube.com/watch?v=NN_JUv2wTY8)
+
+Does space travel effect the human microbiome? NASA is running experiments to find out.
+
+[Would You Try Yogurt Liqueur? | Serious Eats](http://drinks.seriouseats.com/2013/06/bols-yogurt-liqueur-review.html)
+
+Smells like yogurt and tastes like booze.
+
+[SHED Fermentation Bar | North Bay Bohemian](http://www.bohemian.com/northbay/shed-fermentation-bar/Content?oid=2438277)
+
+Kombucha straight from the tap.
+
+[Music for vines claimed to improve wine production - The West Australian](http://au.news.yahoo.com/thewest/lifestyle/a/-/food/17771913/music-for-vines-claimed-to-improve-wine-production/)
+
+German wine maker plays music for his fermenting grapes in an attempt to make fuller bodied wines.
+
+[Maybe that fermentation ain’t working so well; 1,642 sickened; outbreak of E. coli O169 in schoolchildren associated with consumption of kimchi, Korea, 2012 | barfblog](http://barfblog.com/2013/06/maybe-that-fermentation-aint-working-so-well-1642-sickened-outbreak-of-e-coli-o169-in-schoolchildren-associated-with-consumption-of-kimchi-korea-2012/)
+
+E. Coli in Korean kimchi?
+
+[Outbreak of enterotoxigenic Escherichia coli O169 enteritis in schoolchildren associated with consumption of kimchi, Republic of Korea, 2012 | Cambridge Journals Online](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8944818)
+
+Journal article of Korean kimchi outbreak.
+
+[The taste of cutlery: how the taste of food is affected by the weight, size, shape, and colour of the cutlery used to eat it | Flavour Journal PDF](http://www.flavourjournal.com/content/pdf/2044-7248-2-21.pdf)
+
+Food tastes different depending on what utensil is used to eat it.
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://plus.google.com/105180856926180817750).

@@ -1,0 +1,51 @@
+---
+title: "24: Chocolate Harvest and Fermentation"
+subtitle: "More to production that you might have imagined."
+summary: "This week we discuss how chocolate is harvested and fermented. Unlike our coffee episode, there is no question that chocolate is fermented."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-24.mp3"
+enclosureLength: 24385440
+guid: episode-24
+duration: "50:32"
+keywords: "chocolate, dehydration, fermentation"
+explicit: "no"
+month: May
+day: 27
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we discuss how chocolate is harvested and fermented. Unlike our coffee episode, there is no question that chocolate is fermented."
+---
+This week we discuss how chocolate is harvested and fermented. Unlike our coffee episode, there is no question that chocolate is fermented.
+
+<a href="https://commons.wikimedia.org/wiki/File:Coco_%E0%B4%95%E0%B5%8A%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B_%E0%B4%89%E0%B5%BE%E0%B4%AD%E0%B4%BE%E0%B4%97%E0%B4%82.JPG" target="_blank" alt="Cacao Beans in Pod" title="Cacao Beans in Pod | Wikipedia"><img src="/images/cacao-beans-in-pod.jpg" alt="Cacao Beans in Pod"></a>
+
+Show notes:
+
+[The microbiology of cocoa fermentation | PubMed](http://www.ncbi.nlm.nih.gov/pubmed/15462126)
+
+[Theobroma cacao: from Bud to Bean | Tava](http://www.tava.com.au/article_processing.html)
+
+[Cacao Fermentation Training in Vietnam | YouTube](http://www.youtube.com/watch?v=H8_J05eak_U)
+
+This video is in Vietnamese with English subtitles. It is a training video for how to ferment and dry cacao beans.
+
+[The difference between "lavado" and "fermentado" cacao beans used for chocolate | YouTube](http://www.youtube.com/watch?v=u1ODn_VCj2o)
+
+A video from Mexico describing the differences between lavado and fermentado cacao beans.
+
+[How to Grow a Chocolate Plant in a Container | YouTube](http://www.youtube.com/watch?v=fiGXgcoldIA)
+
+Even you can grow and harvest your own cacao tree in a pot if you live in the proper climate.
+
+[Dehydrate It | The Shop](https://culturedpickleshop.wordpress.com/2013/05/21/dehydrate-it/)
+
+Some interesting ideas for dehydrating fermented foods from the people at Cultured Pickle Shop.
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://plus.google.com/105180856926180817750).

@@ -1,0 +1,37 @@
+---
+title: "36: Contamination, Ahh!"
+subtitle: "Why it sometimes happens"
+summary: "Inspired by a recent presentation on the microbes of beer, we discuss fermented food contamination. Contamination happens. Sometimes food is salvageable and other times it must be composted. What is going wrong when this happens?"
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-36.mp3"
+enclosureLength: 32142640
+guid: episode-36
+duration: "01:07"
+keywords: "food safety, contamination, fermentation, beer, microbiology"
+explicit: "no"
+month: Oct
+day: 21
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "Inspired by a recent presentation on the microbes of beer, we discuss fermented food contamination. Contamination happens. Sometimes food is salvageable and other times it must be composted. What is going wrong when this happens?"
+---
+Inspired by a recent presentation on the microbes of beer, we discuss fermented food contamination. Contamination happens. Sometimes food is salvageable and other times it must be composted. What is going wrong when this happens?
+
+Show notes:
+
+[The Microbiology of Beer | The Microbes After Hours series](http://www.microbeworld.org/podcasts/asm-after-hours/1472-the-microbiology-of-beer-the-microbes-after-hours-series-6-8-pm-thursday-october-10-2013)
+ 
+We mentioned this talk last week. Watch it if you are interested in microbes or beer or both.
+
+[Food, Fermentation and Micro-organisms: Charles W. Bamforth | Amazon](http://www.amazon.com/exec/obidos/ASIN/0632059877/fermup-20)
+ 
+This is the book on fermentation that was written by one of the presenters from the Microbes After Hours talk on beer. This book has a large section on beer, but covers general science on many different categories of ferments. Well worth reading if you're into text books and knowledge!
+ 
+ ---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://plus.google.com/105180856926180817750).

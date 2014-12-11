@@ -1,0 +1,31 @@
+---
+title: "32: The Really Brief Episode"
+subtitle: "Fasted Download Ever"
+summary: "Taking a week off but wanted to share a cool link."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-32.mp3"
+enclosureLength: 1421504
+guid: episode-32
+duration: "02:57"
+keywords: "fermented foods"
+explicit: "no"
+month: Jul
+day: 29
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "Taking a week off but wanted to share a cool link."
+---
+Taking a week off but wanted to share a cool link.
+
+Show notes:
+
+[Perspective | The Shop](http://culturedpickleshop.wordpress.com/2013/07/20/perspective/)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://plus.google.com/105180856926180817750).

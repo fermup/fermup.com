@@ -1,0 +1,37 @@
+---
+title: "Episode 10: To Starter or Not to Starter Culture"
+subtitle: "When, where and why to use fermentation starter cultures."
+summary: This week we discuss all things starter cultures; when to use them and when you might not want to. We toss around personal opinion (no whey) and research on the effects of backslopping in commercial sauerkraut production. We finish up with a fumbling attempt at sharing an update on Branden's almost koumiss attempts.
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-10.mp3"
+enclosureLength: 32275808
+guid: episode-10
+duration: "01:07:14"
+keywords: "starter cultures, kefir, koumiss, yogurt, sauerkraut, kombucha, water kefir"
+explicit: "no"
+month: Feb
+day: 18
+year: 2013
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: This week we discuss all things starter cultures; when to use them and when you might not want to. We toss around personal opinion (no whey) and research on the effects of backslopping in commercial sauerkraut production. We finish up with a fumbling attempt at sharing an update on Branden's almost koumiss attempts.
+---
+This week we discuss all things starter cultures; when to use them and when you might not want to. We toss around personal opinion (no whey) and research on the effects of backslopping in commercial sauerkraut production.
+
+We finish up with a fumbling attempt at sharing an update on Branden's "almost" koumiss attempts.
+
+Show notes:
+
+[Cheese By-Product Keeps Wis. County Roads Clear Of Ice | CBS Minnesota](http://minnesota.cbslocal.com/2012/12/12/cheese-bi-product-keeps-wis-county-roads-clear-of-ice/)
+
+[Yogurt Starter Cultures | Cultures For Health](http://www.culturesforhealth.com/starter-cultures/yogurt-starter.html?a_aid=50d5f83f819c5)
+
+[Kefir Starter Cultures | Cultures for Health](http://www.culturesforhealth.com/starter-cultures/kefir-cultures.html?a_aid=50d5f83f819c5)
+
+[Kombucha SCOBY | Cultures for Health](http://www.culturesforhealth.com/kombucha-tea-starter-culture.html?a_aid=50d5f83f819c5)
+
+[Tempeh and Miso Starter Cultures | Cultures for Health](http://www.culturesforhealth.com/starter-cultures/soy-cultures.html?a_aid=50d5f83f819c5)
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or find us on Twitter [@fermup](https://twitter.com/fermup).

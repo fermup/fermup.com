@@ -1,0 +1,39 @@
+---
+title: "77: Chicken Feed Fermentation"
+subtitle: "Eat eggs or raise chickens?"
+summary: "This week we talk about fermenting chicken feed. Even if you don't have your own chickens, it is interesting to understand the benefits of fermenting food for an animal like the chicken."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-77.mp3"
+enclosureLength: 14665488 
+guid: episode-77
+duration: "30:33"
+keywords: "fermentation, chicken, feed"
+explicit: "no"
+month: Aug
+day: 05
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we talk about fermenting chicken feed. Even if you don't have your own chickens, it is interesting to understand the benefits of fermenting food for an animal like the chicken."
+---
+This week we talk about fermenting chicken feed. Even if you don't have your own chickens, it is interesting to understand the benefits of fermenting food for an animal like the chicken.
+
+Show notes:
+
+[Fermented feed for laying hens: effects on egg production, egg quality, plumage condition and composition and activity of the intestinal microflora. - ResearchGate](http://www.researchgate.net/publication/24284549_Fermented_feed_for_laying_hens_effects_on_egg_production_egg_quality_plumage_condition_and_composition_and_activity_of_the_intestinal_microflora)
+
+[Fermenting Feed for Meat Birds](http://www.backyardchickens.com/t/644300/fermenting-feed-for-meat-birds)
+
+[Science of Fermented Feed | Scratch Cradle](http://scratchcradle.wordpress.com/2012/09/22/science-of-fermented-feed/)
+
+[Fermented Chicken Feed - Oh Lardy!](http://ohlardy.com/fermented-chicken-feed/)
+
+[Taylor & Francis Online :: Fermented feed for laying hens: effects on egg production, egg quality, plumage condition and composition and activity of the intestinal microflora - British Poultry Science - Volume 50, Issue 2](http://www.tandfonline.com/doi/abs/10.1080/00071660902736722?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&#.U-EdQ4BdWLU)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

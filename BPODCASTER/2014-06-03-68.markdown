@@ -1,0 +1,35 @@
+---
+title: "68: Genetics of Yeast"
+subtitle: "Strange Brews Getting Stranger"
+summary: "This week we discuss the DNA sequencing of brewing yeast and the impact this could have on the industry and fermentation in general."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-68.mp3"
+enclosureLength: 18670096
+guid: episode-68
+duration: "37:21"
+keywords: "beer, brewing, fermentation, genetics, DNA"
+explicit: "no"
+month: Jun
+day: 03
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we discuss the DNA sequencing of brewing yeast and the impact this could have on the industry and fermentation in general."
+---
+This week we discuss the DNA sequencing of brewing yeast and the impact this could have on the industry and fermentation in general.
+
+Show notes:
+
+[Strange Brews: The Genes of Craft Beer - NYTimes.com](http://www.nytimes.com/2014/05/27/science/craft-beer-at-the-genetic-level.html?ref=science&_r=1)
+
+[Yeast: The Practical Guide to Beer Fermentation (Brewing Elements Series): Jamil Zainasheff, Chris White: 9780937381960: Amazon.com: Books](http://www.amazon.com/exec/obidos/ASIN/0937381969/fermup-20)
+	
+[Food, Fermentation and Micro-organisms: Charles W. Bamforth: 9780632059874: Amazon.com: Books](http://www.amazon.com/exec/obidos/ASIN/0632059877/fermup-20)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

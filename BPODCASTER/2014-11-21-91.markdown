@@ -1,0 +1,35 @@
+---
+title: "91: Firefly Kitchens"
+subtitle: "All about their new cookbook"
+summary: "The founders of Firefly Kitchens have a new fermented vegetable cookbook. Julie O'Brien and Richard J. Climenhage talk recipes, realities of fermenting at scale, and t-shirts."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-91.mp3"
+enclosureLength: 17881904
+guid: episode-91
+duration: 35:42
+keywords: "fermented vegetables, Firefly Kitchens"
+explicit: "no"
+month: Nov
+day: 21
+year: 2014
+tags:
+  - vegetables
+author: Branden Byers
+description: "The founders of Firefly Kitchens have a new fermented vegetable cookbook. Julie O'Brien and Richard J. Climenhage talk recipes, realities of fermenting at scale, and t-shirts."
+---
+The founders of Firefly Kitchens have a new fermented vegetable cookbook. Julie O'Brien and Richard J. Climenhage talk recipes, realities of fermenting at scale, and t-shirts.
+
+Show notes:
+
+![Firefly Kitchen Founders Julie O'Brien and Richard J. Climenhage](/images/fermup-91-firefly-kitchens.jpg "FermUp 91: Firefly Kitchens")
+
+[Fresh & Fermented | Amazon](http://www.amazon.com/exec/obidos/ASIN/1570619379/fermup-20)
+
+[Local Producer Firefly Kitchens | Whole Foods](http://www.wholefoodsmarket.com/blog/whole-story/local-producer-firefly-kitchens)
+
+[Firefly Kitchens Website](http://www.fireflykitchens.com/)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

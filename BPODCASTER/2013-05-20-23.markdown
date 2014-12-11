@@ -1,0 +1,56 @@
+---
+title: "23: Salt Sucks!"
+subtitle: "How salt does what it does in preservation and fermentation"
+summary: "This week is about salt and the amazing osmoprotectants that come to the rescue in lactic acid bacteria. We discuss a few historical aspects of salt, a bit about iodine and then we discuss what happens to bacteria under the influence of salt.  We're also trying a new format order for the show. We started with the topic of the week and finished off with fermentation news."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-23.mp3"
+enclosureLength: 28532720
+guid: episode-23
+duration: "59:11"
+keywords: "salt, fermentation, osmosis, cheese, yogurt"
+explicit: "no"
+month: May
+day: 20
+year: 2013
+tags:
+  - vegetables
+  - dairy
+author: Branden Byers
+description: "This week is about salt and the amazing osmoprotectants that come to the rescue  in lactic acid bacteria. We discuss a few historical aspects of salt, a bit about iodine and then we discuss what happens to bacteria under the influence of salt. We're also trying a new format order for the show. We started with the topic of the week and finished off with fermentation news."
+---
+This week is about salt and the amazing osmoprotectants that come to the rescue in lactic acid bacteria. We discuss a few historical aspects of salt, a bit about iodine and then we discuss what happens to bacteria under the influence of salt. 
+
+We're also trying a new format order for the show. We started with the topic of the week and finished off with fermentation news.
+
+Show notes:
+
+![Salt and Osmosis](/images/salt-sucks.jpg "Salt Sucks")
+
+[Types of Salt and Salt Substitutes in Canning | Penn State Extension](http://extension.psu.edu/food/safety/food-preservation/news/2012/types-of-salt-and-salt-substitutes-in-canning)
+
+While iodine can have anti-microbial effects at high doses, the amount in table salt is not enough to halt lactic acid fermentation. More likely, the anecdotal accounts of ferments not working is due to some other improper step in the process, but that iodine is used as the scape goat. Iodine may, however, make your ferments look less appealing.
+
+[Determine How the Concentration of a Salt Solution Affects the Rate of Osmosis | Education.com](http://www.education.com/science-fair/article/determine-concentration-salt-solution-affects/)
+
+[Nutrition and Growth of Bacteria](http://www.textbookofbacteriology.net/nutgro_6.html)
+
+[The Trek to a Yogurt Less Sweet | NYTimes.com](http://wap.nytimes.com/2013/05/11/business/dannon-cuts-sugar-carefully-in-childrens-yogurt.html)
+
+This is an interesting article about the 2 year process of experimentation to reduce 25 percent of the sugar in a smoothie product without altering flavor and texture.
+
+["The immune system is like an army": An interview with Prof. Graham Rook | Gut Microbiota Worldwatch](http://www.gutmicrobiotawatch.org/the-immune-system-is-like-an-army-an-interview-with-prof-graham-rook/)
+
+This is a short 3 min video on the microbiota.
+
+[On Lactic Acid Fermentation. A podcast | Nordic Food Lab](http://nordicfoodlab.org/blog/2013/4/lactic-acid-fermentation-podcast)
+
+Listen to this 13 minute condensed talk about lactic acid fermentation from the amazing people over at the Nordic Food Lab.
+
+[Cheese Grater Business Card Proves A Big Hit For Bon Vivant Cheese Shop | Huffington Post](http://www.huffingtonpost.com/2013/05/15/cheese-grater-business-card_n_3281108.html?utm_hp_ref=@food123)
+
+Check out this cheesy business card. The shop had to limit how many the customers could take because they ran out of their first batch quickly.
+
+---
+
+Help us help future listeners find the show by leaving a rating or review. Here's the link to [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or find us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://plus.google.com/105180856926180817750).

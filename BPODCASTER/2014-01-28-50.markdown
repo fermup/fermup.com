@@ -1,0 +1,32 @@
+---
+title: "50: Instant Baby Yeast"
+subtitle: "The Big Five-Oh"
+summary: "The big five-oh! This week we accidentally started the show before the show. We talk yeast, petri dishes, microscopes, and buying a house with fermentation in mind."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-50.mp3"
+enclosureLength: 19983248
+guid: episode-50
+duration: "41:22"
+keywords: "fermentation, microscopes, yeast"
+explicit: "no"
+month: Jan
+day: 28
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "The big five-oh! This week we accidentally started the show before the show. We talk yeast, petri dishes, microscopes, and buying a house with fermentation in mind."
+---
+The big five-oh! This week we accidentally started the show before the show. We talk yeast, petri dishes, microscopes, and buying a house with fermentation in mind.
+
+Show notes:
+
+http://www.bear-flavored.com/2014/01/how-to-make-fermented-pizza.html
+
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).

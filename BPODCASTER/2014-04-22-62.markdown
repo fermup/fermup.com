@@ -1,0 +1,35 @@
+---
+title: "62: Koumis or Kumis?"
+subtitle: "More than one Kumis"
+summary: "This week we talk culture, history, and the naming of foods."
+enclosureUrl: "http://media.blubrry.com/fermup/fermup.com/podcast/audio/fermup-62.mp3"
+enclosureLength: 20065792
+guid: episode-62
+duration: "41:48"
+keywords: "koumiss, kumis, fermented dairy, food camp"
+explicit: "no"
+month: Apr
+day: 22
+year: 2014
+tags:
+  - vegetables
+  - dairy
+  - grains
+author: Branden Byers
+description: "This week we talk culture, history, and the naming of foods."
+---
+This week we talk culture, history, and the naming of foods.
+
+Show notes:
+
+[How to build a Temp Controller with a STC-1000 | YouTube](https://www.youtube.com/watch?v=SrdOpk10MkE&feature=youtu.be)
+
+[FARMcurious Fermenting Set by Nicole Kramer Easterday | Kickstarter](https://www.kickstarter.com/projects/2021939414/farmcurious-fermenting-set)
+
+[There will be slime | Nordic Food Lab](http://nordicfoodlab.org/blog/2014/3/there-will-be-slime)
+
+---
+
+Rate us on [iTunes](http://itunes.apple.com/podcast/fermup-fermented-food-podcast/id593958494). Thanks for your support!
+
+Send your feedback to <a href="mailto:podcast@fermup.com">podcast@fermup.com</a> or connect with us on [Twitter](https://twitter.com/fermup), [Facebook](http://www.facebook.com/fermup) or [Google+](https://google.com/+fermup).
