@@ -1,13 +1,20 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <title>{{ title }} | Metalsmith Page</title>
-</head>
-<body>
-    <div class="main-wrapper">
-        {{{ contents }}}
-    </div>
+{{> header}}
 
-</body>
-</html>
+<article>
+  {{{contents}}}
+</article>
+
+<div class="podcast-list">
+  <ul>
+    {{#each collections.podcast}}
+      <li>
+        <a href="/podcast/{{this.title}}/">
+          <h2>{{this.title}}: {{this.titlePart}}</h2>
+          <article>{{this.summary}}</article>
+        </a>
+      </li>
+    {{/each}}
+  </ul>
+</div>
+
+{{> footer}}

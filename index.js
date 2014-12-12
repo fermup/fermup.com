@@ -61,8 +61,11 @@ Metalsmith(__dirname)
     .use(cleanCSS())
     .use(uglify())
     .use(htmlescape())
-    .use(headingsidentifier())
-    .use(watch())
+//    .use(headingsidentifier())
+    .use(watch({
+      pattern: '**/*',
+      livereload: true
+    }))
     .use(serve())
     .destination('./build')
     .build(function(err, files) {
